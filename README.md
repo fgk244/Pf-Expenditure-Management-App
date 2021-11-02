@@ -1,7 +1,7 @@
 # EMA
 
 ## サイト概要
-Expenditure Management Application の頭文字から取りEMA（イーエムエー）
+Expenditure Management Application の頭文字から取りEMA（イーエムエー）<br />
 元銀行員が作った絶対破産させない支出管理WEBアプリ
 
 ### サイトテーマ
