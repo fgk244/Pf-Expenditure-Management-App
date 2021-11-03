@@ -1,10 +1,10 @@
 # EMA
 
 ## サイト概要
-Expenditure Management Application の頭文字から取りEMA（イーエムエー）<br />
-元銀行員が作った絶対破産させない支出管理WEBアプリ
 
 ### サイトテーマ
+Expenditure Management Application の頭文字から取りEMA（イーエムエー）<br />
+元銀行員が作った絶対破産させない支出管理WEBアプリ<br />
 資金比率から今月いくら使えるのか。<br />
 いくら以上使ってはいけないのか一眼でわかるサイトです。<br />
 世の中のお金で困っている人を救う、手助けをするがテーマです。<br />
@@ -51,6 +51,7 @@ Expenditure Management Application の頭文字から取りEMA（イーエムエ
 支払方法ごとの月間支出合計＋円グラフ表示機能<br />
 予算と支出実績比較機能<br />
 検索機能（日付、カテゴリ、支払方法、メモ）<br />
+CRUD機能<br />
 ログイン、ログアウト機能<br />
 退会機能
 
